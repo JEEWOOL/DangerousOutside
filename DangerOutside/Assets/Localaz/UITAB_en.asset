@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UITAB_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9045076150d62134e9e0749f29f1c5f1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9305796608
+    m_Localized: 'Body
+
+      Enhance'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40729522176
+    m_Localized: 'Soul
+
+      Enhance'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65505275904
+    m_Localized: 'Skill
+
+      Enhance'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 798711558144
+    m_Localized: Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 842856607744
+    m_Localized: Equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 849462636544
+    m_Localized: NewLife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 915137048576
+    m_Localized: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2456870924288
+    m_Localized: Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2501640925184
+    m_Localized: Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2560562507776
+    m_Localized: Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3173434208256
+    m_Localized: Start New Life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3826084687872
+    m_Localized: SoulStone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3880862298112
+    m_Localized: "Body Enhance reset to 0 when start new life. SoulStone increase
+      every 20 stages.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6918314340352
+    m_Localized: Currency
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7094324113408
+    m_Localized: Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8180791455744
+    m_Localized: Buy Dia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8843353075712
+    m_Localized: Buy Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8072809099264
+    m_Localized: Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8122985558016
+    m_Localized: 'Ads
+
+      <sprite=1>20'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10992430559232
+    m_Localized: Watch Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11140468518912
+    m_Localized: 0.8$
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12099957501952
+    m_Localized: 4.0$
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12140453507072
+    m_Localized: 8.0$
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12823630131200
+    m_Localized: Buy cup of Coffee For Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16512893792256
+    m_Localized: Purchased
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17201904693248
+    m_Localized: Enhance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17605975552000
+    m_Localized: "\rWould you like to purchase this item?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18077138497536
+    m_Localized: Would you like to equip this item?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
